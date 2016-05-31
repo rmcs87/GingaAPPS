@@ -1,0 +1,813 @@
+-----KEY
+Envio de conexao
+-----TCP
+-----Em conexao
+identifier -> 33
+-----Enviando evento de conexao
+-----User
+-----enviando update
+-----update enviado
+-----enviando update
+-----update enviado
+-----TCP
+-----Em data
+-----operacao bem sucedidaHTTP/1.1 200 OK
+Date: Thu, 10 Sep 2009 11:52:59 GMT
+Server: hi
+X-RateLimit-Limit: 150
+X-Transaction: 1252583579-70583-5194
+Status: 200 OK
+ETag: "a25398f45fd3e37a183601926d1d8efc"
+Last-Modified: Thu, 10 Sep 2009 11:52:59 GMT
+X-RateLimit-Remaining: 149
+Content-Type: application/xml; charset=utf-8
+Pragma: no-cache
+Content-Length: 33856
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+X-Revision: a9b3322795e37dab34d0bf5b482d7fc14cf55ae6
+X-RateLimit-Reset: 1252587179
+Set-Cookie: lang=en; path=/
+Set-Cookie: _twitter_sess=BAh7CDoHaWQiJTZjYjg4ZWJhYjU4ZjllZDBlMWMwN2E0YzM5ZTEwOGFjIgpm%250AbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6Rmxhc2hIYXNoewAG%250AOgpAdXNlZHsAOhF0cmFuc19wcm9tcHQw--50708f96db43d5e274d9f213a5160de878b65ff2; domain=.twitter.com; path=/
+Vary: Accept-Encoding
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<users type="array">
+<user>
+  <id>71628073</id>
+  <name>Ricardo Mendes</name>
+  <screen_name>twilua</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://s.twimg.com/a/1252525292/images/default_profile_normal.png</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>1</followers_count>
+  <profile_background_color>9ae4e8</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+  <friends_count>6</friends_count>
+  <created_at>Fri Sep 04 20:19:04 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-14400</utc_offset>
+  <time_zone>Santiago</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252525292/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>14</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 09 18:20:09 +0000 2009</created_at>
+    <id>3868362016</id>
+    <text>Texto teste3.</text>
+    <source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>29054474</id>
+  <name>Explosm</name>
+  <screen_name>Explosm</screen_name>
+  <location>THE INTERNET</location>
+  <description>Explosm.net / Cyanide and Happiness</description>
+  <profile_image_url>http://a1.twimg.com/profile_images/125732978/manbat_normal.png</profile_image_url>
+  <url>http://www.explosm.net</url>
+  <protected>false
+-----User
+-----TCP
+-----Em data
+-----outro erro aconteceu</protected>
+  <followers_count>9359</followers_count>
+  <profile_background_color>373E48</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>FF9900</profile_link_color>
+  <profile_sidebar_fill_color>CCCCCC</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>999999</profile_sidebar_border_color>
+  <friends_count>4</friends_count>
+  <created_at>Sun Apr 05 20:16:41 +0000 2009</created_at>
+  <favourites_count>1</favourites_count>
+  <utc_offset>-28800</utc_offset>
+  <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252448032/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>218</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Thu Sep 10 08:00:46 +0000 2009</created_at>
+    <id>3883416105</id>
+    <text>New comic: RT @MattMelvin Well, technically, she does http://bit.ly/2aTqjI</text>
+    <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>53766503</id>
+  <name>Overmedia Networks</name>
+  <screen_name>overmedia</screen_name>
+  <location></location>
+  <description>Ensino e Inova&#231;&#227;o em Redes e TV Digital</description>
+  <profile_image_url>http://a3.twimg.com/profile_images/297542389/Logo_globo_peq_normal.png</profile_image_url>
+  <url>http://overmedianetworks.com.br</url>
+  <protected>false</protected>
+  <followers_count>59</followers_count>
+  <profile_background_color>8B542B</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>9D582E</profile_link_color>
+  <profile_sidebar_fill_color>EADEAA</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>D9B17E</profile_sidebar_border_color>
+  <friends_count>28</friends_count>
+  <created_at>Sat Jul 04 21:37:58 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252525292/images/themes/theme8/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>66</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 09 14:49:39 +0000 2009</created_at>
+    <id>3864383205</id>
+    <text>Nova vers&#227;o do #OpenGinga traz implementa&#231;&#227;o do LWUIT para ambiente de TV #TVDigital - http://bit.ly/b4nrp</text>
+    <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>8923542</id>
+  <name>Alan Kelon</name>
+  <screen_name>alankelon</screen_name>
+  <location>Jo&#227;o Pessoa</location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/255810855/avida_normal.jpg</profile_image_url>
+  <url>http://kelon.org</url>
+  <protected>false</protected>
+  <followers_count>240</followers_count>
+  <profile_background_color>D0D0D0</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>E9F8C5</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>204628</profile_sidebar_border_color>
+  <friends_count>210</friends_count>
+  <created_at>Mon Sep 17 04:02:28 +0000 2007</created_at>
+  <favourites_count>2</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://a1.twimg.com/profile_background_images/1682912/road2.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>2346</statuses_count>
+  <notifications><
+-----User
+-----TCP
+-----Em data
+-----outro erro aconteceu/notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Thu Sep 10 04:24:51 +0000 2009</created_at>
+    <id>3880830983</id>
+    <text>@raphaelmarques @mandybc resta pouco e n&#227;o tem compromisso de manh&#227;? vire a noite e termine logo, depois durma a manh&#227; inteira :)</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3880199275</in_reply_to_status_id>
+    <in_reply_to_user_id>17526926</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>raphaelmarques</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>64939531</id>
+  <name>Felipe Lacet</name>
+  <screen_name>felipe_lacet</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/363458791/untitled3_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>30</followers_count>
+  <profile_background_color>9AE4E8</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+  <friends_count>41</friends_count>
+  <created_at>Wed Aug 12 04:41:02 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset></utc_offset>
+  <time_zone></time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252525292/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>43</statuses_count>
+  <notifications>false</notifications>
+  <verified>false</verified>
+  <following>false</following>
+  <status>
+    <created_at>Thu Sep 10 02:54:09 +0000 2009</created_at>
+    <id>3879096735</id>
+    <text>#Dunga fez merda, mas o Brasil ganhou. Nada fora do normal.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>55123659</id>
+  <name>Milena Costa</name>
+  <screen_name>milenacs</screen_name>
+  <location>Recife/PE</location>
+  <description>Estudante, estagi&#225;ria, futura psicologa e bem normalzinha!</description>
+  <profile_image_url>http://a3.twimg.com/profile_images/325442807/OgAAABTuh50BcEFQLmmJXGLbdf52r8SvFnVyNTFy73ioKLlfPXl8XCll8MCTfH7tYB0ukPWr6W5dGm4HPwlQe5NjkLIAm1T1UIKzUH81wyOZ2_SLe8QGZz7h4qQg_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>15</followers_count>
+  <profile_background_color>642D8B</profile_background_color>
+  <profile_text_color>c5b5c9</profile_text_color>
+  <profile_link_color>cfd671</profile_link_color>
+  <profile_sidebar_fill_color>05080a</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>58bcf5</profile_sidebar_border_color>
+  <friends_count>31</friends_count>
+  <created_at>Thu Jul 09 03:08:39 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://a3.twimg.com/profile_background_images/24656105/-ROSEANA_154.jpg</profile_background_image_url>
+  <profile_background_tile>true</profile_background_tile>
+  <statuses_count>40</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Fri Sep 04 15:37:34 +0000 2009</created_at>
+    <id>3759027823</id>
+    <text>@luannabrito luazitxaaaaaa sai do telefone, por isso que a gente liga e d&#225; ocupado! hahaaa Boa viagem p tu! X&#234;ro</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3758300675</in_reply_to_status_id>
+    <in_reply_to_user_id>62794239</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>luannabrito</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>15831298</id>
+  <name>barufaldi</name>
+  <screen_name>barufaldi</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/197668907/orkut5_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>64</followers_count>
+  <profile_background_color>9AE4E8</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+  <friends_count>60</friends_count>
+  <created_at>Wed Aug 13 01:48:54 +0000 2008</created_at>
+  <favourites_count>2</favourites_count>
+  <utc_offset>-14400</utc_offset>
+  <time_zone>Santiago</time_zone>
+  <profile_background_image_url>http://a1.twimg.com/profile_background_images/29160922/triqueta.jpg</profile_background_image_url>
+  <profile_background_tile>true</profile_background_tile>
+  <statuses_count>583</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 09 05:11:00 +0000 2009</created_at>
+    <id>3857591066</id>
+    <text>Astral drink no Bessa?! oO</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>45970891</id>
+  <name>Daniel Ramos</name>
+  <screen_name>danielg_ramos</screen_name>
+  <location>iPhone: 38.923109,-77.052272</location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/267924824/IMG_0052_normal.JPG</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>60</followers_count>
+  <profile_background_color>9AE4E8</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+  <friends_count>66</friends_count>
+  <created_at>Tue Jun 09 23:02:36 +0000 2009</created_at>
+  <favourites_count>2</favourites_count>
+  <utc_offset>-14400</utc_offset>
+  <time_zone>Santiago</time_zone>
+  <profile_background_image_url>http://a3.twimg.com/profile_background_images/22834881/twitter_dan.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>167</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Sun Sep 06 23:38:22 +0000 2009</created_at>
+    <id>3807563545</id>
+    <text>Noite bonita em porto de galinhas... Beberei.</text>
+    <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_s
+-----TCP
+-----Em data
+-----outro erro aconteceucreen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>41962673</id>
+  <name>Alana Morais</name>
+  <screen_name>alanaMorais</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/353081414/DSC00515_normal.JPG</profile_image_url>
+  <url></url>
+  <protected>true</protected>
+  <followers_count>65</followers_count>
+  <profile_background_color>000000</profile_background_color>
+  <profile_text_color>967009</profile_text_color>
+  <profile_link_color>b5600b</profile_link_color>
+  <profile_sidebar_fill_color>050305</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>457bc7</profile_sidebar_border_color>
+  <friends_count>71</friends_count>
+  <created_at>Sat May 23 03:09:53 +0000 2009</created_at>
+  <favourites_count>3</favourites_count>
+  <utc_offset>-14400</utc_offset>
+  <time_zone>Santiago</time_zone>
+  <profile_background_image_url>http://a1.twimg.com/profile_background_images/23229922/1920x1200_HD_Wallpaper_142_Zixpk.jpg</profile_background_image_url>
+  <profile_background_tile>true</profile_background_tile>
+  <statuses_count>229</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+</user>
+<user>
+  <id>22291899</id>
+  <name>Pollyane Carvalho</name>
+  <screen_name>pollyoaks</screen_name>
+  <location>Somewhere near Seattle - USA</location>
+  <description>expect the best, be prepared for the worst, fu
+-----TCP
+-----Em data
+-----outro erro aconteceuck what others think and DO YOUR OWN THING.</description>
+  <profile_image_url>http://a3.twimg.com/profile_images/348681831/po_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>134</followers_count>
+  <profile_background_color>000000</profile_background_color>
+  <profile_text_color>051124</profile_text_color>
+  <profile_link_color>51a6a0</profile_link_color>
+  <profile_sidebar_fill_color>a6502b</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>51a6a0</profile_sidebar_border_color>
+  <friends_count>148</friends_count>
+  <created_at>Sat Feb 28 20:26:21 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-28800</utc_offset>
+  <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+  <profile_background_image_url>http://a1.twimg.com/profile_background_images/23246992/Serenity_by_Nikander.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>598</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Thu Sep 10 00:05:30 +0000 2009</created_at>
+    <id>3875200448</id>
+    <text>@mandybc hahaha Alex &#233; simp&#225;tico demais velho! O Show foi massa demais, voc&#234; ia gostar! =D</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3861545056</in_reply_to_status_id>
+    <in_reply_to_user_id>17472025</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>mandybc</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>48714523</id>
+  <name>Alexander Pinto</name>
+  <screen_name>alexander_pinto</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/271364882/profile_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>17</followers_count>
+  <profile_background_color>9ae4e8</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+  <friends_count>13</friends_count>
+  <created_at>Fri Jun 19 14:09:43 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset></utc_offset>
+  <time_zone></time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252525292/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>11</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Fri Jul 17 02:11:38 +0000 2009</created_at>
+    <id>2680772964</id>
+    <text>@danielg_ramos Relaxa... era contra o Corinthians =P</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>2680571653</in_reply_to_status_id>
+    <in_reply_to_user_id>45970891</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>danielg_ramos</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>15152703</id>
+  <name>Yuri Malheiros</name>
+  <screen_name>yurimalheiros</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/389740531/DSC04816-2_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>135</followers_count>
+  <profile_background_color>000000</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>5fa6ad</profile_link_color>
+  <profile_sidebar_fill_color>595959</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+  <friends_count>101</friends_count>
+  <created_at>Wed Jun 18 01:40:18 +0000 2008</created_at>
+  <favourites_count>9</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://a3.twimg.com/profile_background_images/27845619/mqauroraearth.br.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>1681</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Thu Sep 10 00:56:40 +0000 2009</created_at>
+    <id>3876369724</id>
+    <text>argentina perdeu mais uma uhuhuhu</text>
+    <source>&lt;a href=&quot;http://destroytwitter.com/&quot; rel=&quot;nofollow&quot;&gt;DestroyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>55711734</id>
+  <name>Eduado Freire</name>
+  <screen_name>eduardo_fs</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/331966423/Preto_e_Branco_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>26</followers_count>
+  <profile_background_color>9ae4e8</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+  <friends_count>16</friends_count>
+  <created_at>Sat Jul 11 00:38:59 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset></utc_offset>
+  <time_zone></time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>1</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Mon Aug 03 12:16:03 +0000 2009</created_at>
+    <id>3103142821</id>
+    <text>@danielg_ramos A galera abandonou o jogo na metade! Precisamos jogar de t&#234;nis e em quadra coberta!</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3094307422</in_reply_to_status_id>
+    <in_reply_to_user_id>45970891</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>danielg_ramos</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>14869268</id>
+  <name>Herbet Ferreira</name>
+  <screen_name>herbetferreira</screen_name>
+  <location>Jo&#227;o Pessoa, PB</location>
+  <description>Mestrando em Inform&#225;tica pela UFPB, mas viviendo a vida socialmente.</description>
+  <profile_image_url>http://a1.twimg.com/profile_images/261406358/foto_normal.jpg</profile_image_url>
+  <url>http://herbetferreira.com</url>
+  <protected>false</protected>
+  <followers_count>134</followers_count>
+  <profile_background_color>1A1B1F</profile_background_color>
+  <profile_text_color>666666</profile_text_color>
+  <profile_link_color>2FC2EF</profile_link_color>
+  <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>181A1E</profile_sid
+-----TCP
+-----Em data
+-----outro erro aconteceuebar_border_color>
+  <friends_count>95</friends_count>
+  <created_at>Thu May 22 15:07:51 +0000 2008</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://a3.twimg.com/profile_background_images/12440307/2905280600_3913276d33_b.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>374</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 02 00:22:48 +0000 2009</created_at>
+    <id>3700445761</id>
+    <text>Oe, dia 15 de Agosto &#233; o dia do Analista de Sistemas! ah&#225;! Pr&#243;ximo ano vou cobrar como feriado! :P</text>
+    <source>&lt;a href="http://twitterfox.net/" rel="nofollow"&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>48824385</id>
+  <name>Antonio Gomes</name>
+  <screen_name>tomagms</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/271889492/DSC00589_normal.JPG</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>33</followers_count>
+  <profile_background_color>1A1B1F</profile_background_color>
+  <profile_text_color>666666</profile_text_color>
+  <profile_link_color>2FC2EF</profile_link_color>
+  <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+  <friends_count>41</friends_count>
+  <created_at>Fri Jun 19 20:51:42 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme9/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>24</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Tue Sep 01 20:28:20 +0000 2009</created_at>
+    <id>3696100320</id>
+    <text>Sem Gmail :(   Eh quase o fim do mundo...</text>
+    <source>&lt;a href=&quot;http://twitterfox.net/&quot; rel=&quot;nofollow&quot;&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>55030439</id>
+  <name>Anderson Ferreira</name>
+  <screen_name>andersonvaf</screen_name>
+  <location>Jo&#227;o Pessoa, PB</location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/304186740/DSC02549_2__normal.jpg</profile_image_url>
+  <url>http://andersonvinicius.com</url>
+  <protected>false</protected>
+  <followers_count>24</followers_count>
+  <profile_background_color>9ae4e8</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+  <friends_count>32</friends_count>
+  <created_at>Wed Jul 08 21:11:41 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1251845223/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>12</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Tue Sep 01 15:03:36 +0000 2009</created_at>
+    <id>3689816435</id>
+    <text>INSA-Lyon -&amp;gt; http://bit.ly/9v2xP</text>
+    <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>43621409</id>
+  <name>Igor Moura</name>
+  <screen_name>ig_moura</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a3.twimg.com/profile_images/347882937/Igor43_normal.JPG</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>45</followers_count>
+  <profile_background_color>1A1B1F</profile_background_color>
+  <profile_text_color>666666</profile_text_color>
+  <profile_link_color>2FC2EF</profile_link_color>
+  <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+  <friends_count>53</friends_count>
+  <created_at>Sun May 31 00:11:58 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://a1.twimg.com/profile_background_images/16696230/Mosaico.jpg</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>194</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Tue Sep 08 07:17:37 +0000 2009</created_at>
+    <id>3835984534</id>
+    <text>ouvir uma aulinha agora... fui...........</text>
+    <source>&lt;a href=&quot;http://twitterfox.net/&quot; rel=&quot;nofollow&quot;&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>39151531</id>
+  <name>Adriano Marinho</name>
+  <screen_name>AdrianoSuperEgo</screen_name>
+  <location>Jo&#227;o Pessoa</location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/206215244/cabe_a_normal.jpg</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>31</followers_count>
+  <profile_background_color>27b7be</profile_background_color>
+  <profile_text_color>333333</profile_text_color>
+  <profile_link_color>0084B4</profile_link_color>
+  <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+  <friends_count>30</friends_count>
+  <created_at>Mon May 11 00:58:16 +0000 2009</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1251923748/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>56</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 09 17:11:43 +0000 2009</created_at>
+    <id>3867152189</id>
+    <text>@raphaelmarques queime depois de ler &#233; dos irm&#227;o cohen n&#233;? #sono</text>
+    <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3856662168</in_reply_to_status_id>
+    <in_reply_to_user_id>17526926</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>raphaelmarques</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>15830402</id>
+  <name>Jos&#233; Rog&#233;rio</name>
+  <screen_name>roger_sama</screen_name>
+  <location>Jo&#227;o Pessoa</location>
+  <description>Nerd e estudande da Ci&#234;ncia da Computa&#231;&#227;o na UFPB</description>
+  <profile_image_url>http://a1.twimg
+-----TCP
+-----Em data
+-----outro erro aconteceu.com/profile_images/58147870/twetter_normal.jpg</profile_image_url>
+  <url>http://www.rogersama.wordpress.com</url>
+  <protected>false</protected>
+  <followers_count>84</followers_count>
+  <profile_background_color>1A1B1F</profile_background_color>
+  <profile_text_color>666666</profile_text_color>
+  <profile_link_color>2FC2EF</profile_link_color>
+  <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+  <friends_count>74</friends_count>
+  <created_at>Wed Aug 13 00:18:53 +0000 2008</created_at>
+  <favourites_count>0</favourites_count>
+  <utc_offset>-10800</utc_offset>
+  <time_zone>Brasilia</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme9/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>584</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Wed Sep 02 12:22:05 +0000 2009</created_at>
+    <id>3710158202</id>
+    <text>@yurimalheiros Algu&#233;m lembrou de Starcraft e metr&#244;-org&#226;nico dos Zergs? N&#227;o, algu&#233;m? o/</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3709979892</in_reply_to_status_id>
+    <in_reply_to_user_id>15152703</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>yurimalheiros</in_reply_to_screen_name>
+  </status>
+</user>
+<user>
+  <id>15531125</id>
+  <name>ed_porto</name>
+  <screen_name>ed_porto</screen_name>
+  <location></location>
+  <description></description>
+  <profile_image_url>http://a1.twimg.com/profile_images/237173758/rio1_normal.JPG</profile_image_url>
+  <url></url>
+  <protected>false</protected>
+  <followers_count>69</followers_count>
+  <profile_background_color>9ae4e8</profile_background_color>
+  <profile_text_color>000000</profile_text_color>
+  <profile_link_color>0000ff</profile_link_color>
+  <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+  <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+  <friends_count>10</friends_count>
+  <created_at>Tue Jul 22 14:21:09 +0000 2008</created_at>
+  <favourites_count>2</favourites_count>
+  <utc_offset>-14400</utc_offset>
+  <time_zone>Santiago</time_zone>
+  <profile_background_image_url>http://s.twimg.com/a/1252448032/images/themes/theme1/bg.gif</profile_background_image_url>
+  <profile_background_tile>false</profile_background_tile>
+  <statuses_count>6</statuses_count>
+  <notifications></notifications>
+  <verified>false</verified>
+  <following></following>
+  <status>
+    <created_at>Fri Aug 07 19:50:19 +0000 2009</created_at>
+    <id>3182415412</id>
+    <text>@MValeriaRezende pode ser Marina, mas C.Buarque (n&#233; Chico n&#227;o, &#233; Cristovam) tb &#233; bom! Bj</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>3173464614</in_reply_to_status_id>
+    <in_reply_to_user_id>21477391</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>MValeriaRezende</in_reply_to_screen_name>
+  </status>
+</user>
+</users>
+
+-----User
+-----User
+-----User
+-----User
+-----User
+-----KEY

@@ -1,0 +1,66 @@
+KEY
+Envio de conexao
+TCPAAA
+identifier -> 32
+Enviando requisicao
+TCPAAA
+valor -> HTTP/1.1 200 OK
+Date: Tue, 08 Sep 2009 12:38:27 GMT
+Server: hi
+Last-Modified: Tue, 08 Sep 2009 12:38:27 GMT
+Status: 200 OK
+ETag: "9480a708003b5a17df6435afc24411a7"
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Content-Type: application/xml; charset=utf-8
+Content-Length: 1691
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+X-Revision: 7049adb008908242a7a3c2fe1ebe55e640e3e9fc
+X-Transaction: 1252413507-68859-24431
+Set-Cookie: lang=en; path=/
+Set-Cookie: lang=en; path=/
+Set-Cookie: _twitter_sess=BAh7CzoTcGFzc3dvcmRfdG9rZW4iLTM2N2EwYTNmODUyMGEwN2FiOWQ2Zjk5%250AM2M5MzY5ODliZGY5NDJiMjA6CXVzZXJpBCn1RAQ6DGNzcmZfaWQiJTM0MzI3%250AYTg4MGYzNDRlNDU4NmRjNThmYzZiYmYzYTdlOhF0cmFuc19wcm9tcHQwOgdp%250AZCIlNGI3NGYxMzE5YWFkYjhjNDZmM2MzYTMzOGM5NTg4Y2QiCmZsYXNoSUM6%250AJ0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2Vk%250AewA%253D--b693ccd5928627f140800bcee9e0562348e61778; domain=.twitter.com; path=/
+Vary: Accept-Encoding
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+  <created_at>Tue Sep 08 12:38:27 +0000 2009</created_at>
+  <id>3839256411</id>
+  <text>Foi bem</text>
+  <source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>71628073</id>
+    <name>Ricardo Mendes</name>
+    <screen_name>nclTeste</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://s.twimg.com/a/1252097501/images/default_profile_normal.png</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>0</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>0</friends_count>
+    <created_at>Fri Sep 04 20:19:04 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset></utc_offset>
+    <time_zone></time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme1/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>2</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+
+KEY

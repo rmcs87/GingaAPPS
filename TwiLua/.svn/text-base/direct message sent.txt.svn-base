@@ -1,0 +1,101 @@
+-----KEY
+Envio de conexao
+-----TCP
+-----Em conexao
+identifier -> 32
+-----Enviando evento de conexao
+-----User
+-----enviando update
+-----update enviado
+-----TCP
+-----Em data
+-----operacao bem sucedidaHTTP/1.1 200 OK
+Date: Wed, 09 Sep 2009 20:34:33 GMT
+Server: hi
+Last-Modified: Wed, 09 Sep 2009 20:34:33 GMT
+Status: 200 OK
+ETag: "f14dc56eb8962f43b763dd7e3cd84f7b"
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Content-Type: application/xml; charset=utf-8
+Content-Length: 2820
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+X-Revision: 63f6dc62b7409888e9e6b866dce7dea2643c1abd
+X-Transaction: 1252528473-94158-6735
+Set-Cookie: lang=en; path=/
+Set-Cookie: lang=en; path=/
+Set-Cookie: _twitter_sess=BAh7CzoJdXNlcmkEKfVEBDoMY3NyZl9pZCIlMmJlYTA2ZWI1YjE2MGE3OGQ1%250AOGE2NjQxYTBmYTUwYzE6E3Bhc3N3b3JkX3Rva2VuIi0zNjdhMGEzZjg1MjBh%250AMDdhYjlkNmY5OTNjOTM2OTg5YmRmOTQyYjIwOhF0cmFuc19wcm9tcHQwOgdp%250AZCIlNzEwYzZmZjZlYmE3YWIzMDNjN2YzNjczZGU4ZTY0NjYiCmZsYXNoSUM6%250AJ0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2Vk%250AewA%253D--1160fabbeda5eaa19f85caa28b139cea25223069; domain=.twitter.com; path=/
+Vary: Accept-Encoding
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<direct_message>
+  <id>358462378</id>
+  <sender_id>71628073</sender_id>
+  <text>Texto teste3.</text>
+  <recipient_id>55710112</recipient_id>
+  <created_at>Wed Sep 09 20:34:33 +0000 2009</created_at>
+  <sender_screen_name>nclTeste</sender_screen_name>
+  <recipient_screen_name>ricoII</recipient_screen_name>
+  <sender>
+    <id>71628073</id>
+    <name>Ricardo Mendes</name>
+    <screen_name>nclTeste</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://s.twimg.com/a/1252448032/images/default_profile_normal.png</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>1</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>1</friends_count>
+    <created_at>Fri Sep 04 20:19:04 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset></utc_offset>
+    <time_zone></time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252448032/images/themes/theme1/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>14</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </sender>
+  <recipient>
+    <id>55710112</id>
+    <name>Ricardo Mendes</name>
+    <screen_name>ricoII</screen_name>
+    <location>Jo&#227;o Pessoa, PB</location>
+    <description></description>
+    <profile_image_url>http://a3.twimg.com/profile_images/310734431/foto_normal.JPG</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>22</
+-----User
+-----TCP
+-----Em data
+-----outro erro aconteceufollowers_count>
+    <profile_background_color>352726</profile_background_color>
+    <profile_text_color>3E4415</profile_text_color>
+    <profile_link_color>D02B55</profile_link_color>
+    <profile_sidebar_fill_color>99CC33</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>829D5E</profile_sidebar_border_color>
+    <friends_count>20</friends_count>
+    <created_at>Sat Jul 11 00:31:10 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Brasilia</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme5/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>24</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </recipient>
+</direct_message>
+
+-----User
+-----KEY

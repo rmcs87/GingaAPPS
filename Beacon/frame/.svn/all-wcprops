@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame
+END
+componente.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/componente.lua
+END
+componenteTeste.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/componenteTeste.lua
+END
+musica.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/musica.lua
+END
+text.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/text.lua
+END
+menu.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/menu.lua
+END
+efeitosTeste.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/efeitosTeste.lua
+END
+anim.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/anim.lua
+END
+engineTeste.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/engineTeste.lua
+END
+engine.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/engine.lua
+END
+efeitos.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/efeitos.lua
+END
+keyListener.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/8977/jedi/tvapps/Beacon/frame/keyListener.lua
+END

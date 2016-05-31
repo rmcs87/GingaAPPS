@@ -1,0 +1,14 @@
+KEY
+Envio de conexao
+TCPAAA
+identifier -> 32
+Enviando requisicao
+TCPAAA
+valor -> HTTP/1.1 408 Request Timeout
+Connection: Close
+Pragma: no-cache
+cache-control: no-cache
+Content-Type: text/html; charset=iso-8859-1
+
+
+KEY

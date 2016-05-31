@@ -1,0 +1,37 @@
+-----KEY
+Envio de conexao
+-----TCP
+-----Em conexao
+identifier -> 32
+-----Enviando evento de conexao
+-----User
+-----enviando update
+-----update enviado
+-----TCP
+-----Em data
+-----outro erro aconteceuHTTP/1.1 403 Forbidden
+Date: Wed, 09 Sep 2009 20:30:54 GMT
+Server: hi
+Last-Modified: Wed, 09 Sep 2009 20:30:57 GMT
+Status: 403 Forbidden
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Content-Type: application/xml; charset=utf-8
+Content-Length: 178
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+X-Revision: 63f6dc62b7409888e9e6b866dce7dea2643c1abd
+X-Transaction: 1252528257-58581-32128
+Set-Cookie: lang=en; path=/
+Set-Cookie: lang=en; path=/
+Set-Cookie: _twitter_sess=BAh7CzoRdHJhbnNfcHJvbXB0MDoMY3NyZl9pZCIlNTllODg1OGI5OTczN2U1%250AM2E4YWNhZWIzNWVmOWZhOTQ6CXVzZXJpBCn1RAQ6E3Bhc3N3b3JkX3Rva2Vu%250AIi0zNjdhMGEzZjg1MjBhMDdhYjlkNmY5OTNjOTM2OTg5YmRmOTQyYjIwOgdp%250AZCIlMzY5YjAyOTQ5Nzg2ZmM4YTY4MzhhZjM2NjRjZjlhMDQiCmZsYXNoSUM6%250AJ0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2Vk%250AewA%253D--e7693e33edbe23277eebe3506a676a672ce7deef; domain=.twitter.com; path=/
+Vary: Accept-Encoding
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <request>/direct_messages/new.xml</request>
+  <error>You cannot send messages to users who are not following you.</error>
+</hash>
+
+-----User
+-----KEY

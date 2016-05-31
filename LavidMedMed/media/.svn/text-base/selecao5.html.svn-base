@@ -1,0 +1,39 @@
+<html>
+<head>
+   <title>Seleção</title>
+
+   <style>
+      body {
+      	 background-image: url(../img/caixa_dicas.png);
+         font-family: Verdana;
+         size:18pt;
+         margin:0px;
+         color:#000000;
+      }
+
+      .titulo {
+         size:20pt;
+         font-weight:bold;
+         margin:0pt;
+      }
+   </style>
+</head>
+
+<body>
+
+<div id="legenda01">
+<UL>
+ <LI>Procure dormir sempre nos mesmos horários para disciplinar seu relógio interno. </LI>
+
+ <LI>Não coma alimentos gordurosos, pois eles dificultam a digestão.  </LI>
+
+ <LI>Não tente resolver problemas quando estiver na cama. </LI>
+
+ <LI>Para ler, prefira textos que exijam pouca atenção e sem relação com a sua atividade profissional.</LI> 
+
+ <LI>Nunca tome remédio por conta própria. Muitos deles causam dependência e só devem ser usados com indicações médicas.</LI> 
+</UL>
+</div>
+
+</body>
+</html>

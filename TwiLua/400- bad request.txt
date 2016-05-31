@@ -1,0 +1,29 @@
+-----KEY
+Envio de conexao
+-----TCP
+-----Em conexao
+identifier -> 35
+-----Enviando evento de conexao
+-----User
+-----enviando update
+-----update enviado
+-----TCP
+-----Em data
+-----outro erro aconteceuHTTP/1.1 400 Bad Request
+Date: Tue, 08 Sep 2009 19:43:14 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Length: 226
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+</body></html>
+
+-----KEY

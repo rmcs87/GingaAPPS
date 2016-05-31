@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids
+END
+main.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids/main.ncl
+END
+main.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids/main.lua
+END
+connectorBase.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids/connectorBase.ncl
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids/.project
+END
+tcp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/!svn/ver/8977/jedi/tvapps/Asteroids/tcp.lua
+END

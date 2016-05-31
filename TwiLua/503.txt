@@ -1,0 +1,16 @@
+-----KEY
+Envio de conexao
+-----TCP
+-----Em conexao
+identifier -> 32
+-----Enviando evento de conexao
+-----User
+-----enviando update
+-----update enviado
+-----TCP
+-----Em data
+-----outro erro aconteceuHTTP/1.0 503 Service Unavailable
+
+<html><body><h2>HTTP Server Error 503</h2><p> No available server to handle this request </p></body></html>
+-----User
+-----KEY
