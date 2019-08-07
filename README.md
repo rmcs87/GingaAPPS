@@ -1,22 +1,13 @@
-Aplicações Diversas para SBTVD (Ginga)
-================================
-Este repositório possui uma serie de aplicações que desenvolvi (diversas apenas conceituais) durante minha graduação e mestrado.
-
-
-Aplicações
--------------
-
-Segue uma pequena descrição de cada aplicação:
-
-- Asteroids: um jogo ao estilo Asteroids, que se conectava a um servidor externo para controle das naves.
-- Beacon: projeto de vídeo interativo, onde um simulado era realizado em paralelo a apresentação de uma vídeo aula.
-- Bolao: projeto de um bolão virtual realizado a partir da TV.
-- Bolo: um exemplo de enquete onde o tema de um bolo era escolhido pela TV.
-- GingaCraft: um jogo ao estilo Pong, onde os players eram controlados por: um jogador no controle, um jogador conectado via TCP.
-- LavidMedMed: aplicativo para agendamento de consultas médicas. (visão do médico).
-- LavidMedPaciente: aplicativo para agendamento de consultas médicas. (visão do paciente).
-- Mangabeira: aplicativo de enquete, onde moradores de um bairro votam os pontos fortes e fracos do seu bairro.
-- Pesquisa: aplicativo de enquete, onde pessoas respondem sobre a TV Digital.
-- Tree: aplicativo baseado na Turma da Árvore, onde as pessoas navegam pelo aplicativo para obter mais informações sobre o programa, e até fazer compras através do mesmo.
-- TreeGame: jogo complementar ao aplicativo acima, onde o telespectador joga um jogo que estimula a coleta seletiva.
-- TwiLua: aplicativo para comunicação com a API do Twitter vai Ginga.
+Multiple Aplications for Ginga Middleware:
+* Asteroids: an Asteroids-style game that connected to an external server to control ships.
+* Beacon: an Interactive video project, for educational purposes.
+* Bolao: project of a virtual game realized for the TV.
+* Cake: an example of a quiz where the theme of a cake was chosen by TV.
+* GingaCraft: A Pong style game, where players were controlled by remote players.
+* LavidMedMed: application for scheduling medical appointments. (doctor's vision).
+* LavidMedPaciente: application for scheduling medical appointments. (patient's vision).
+* Mangabeira: Poll application, where residents of a neighborhood vote the strengths and weaknesses of their neighborhood.
+* Research: Poll application, where people respond on Digital TV.
+* Tree: Tree-based app, where people browse the app to get more information about the program, and even make purchases through it.
+* TreeGame: Complementary game to the application above, where the viewer plays a game that stimulates the selective collection.
+* TwiLua: application for communication with the Twitter API goes Ginga.
